@@ -9,6 +9,10 @@ A simple Rust server for real-time audio analysis that can be used by frontend a
 - Terminal-based live display
 - Cross-platform audio support
 
+## Screenshot
+
+![Music Learner's Server in Action](screenshot1.png)
+
 ## Prerequisites
 
 ### Linux
@@ -76,10 +80,6 @@ The server performs real-time analysis including:
 - **Wavelength**: Calculated from frequency using speed of sound (343 m/s)
 
 ⚠️ **Note Detection Work in Progress**: The note detection feature is currently under development. Data may be inaccurate and should not be relied upon for precise musical analysis.
-
-## Screenshot
-
-![Music Learner's Server in Action](screenshot1.png)
 
 ## Future Frontend Integration
 
