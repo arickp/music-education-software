@@ -1,0 +1,11 @@
+[package]
+name = "music-learners-server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cpal = "0.15"
+rustfft = "6.1"
+num-complex = "0.4"
+clap = { version = "4.4", features = ["derive"] }
+crossterm = "0.27"
